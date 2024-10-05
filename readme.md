@@ -40,11 +40,11 @@ Random generation of 1024-bit numbers.
 #### Optimization:
 Appropriate algorithms for operations like division by two and subtraction.
 ## Assumptions
-### Process Scheduler:
+### Task 1 Process Scheduler:
 1. The CPU time per cycle is fixed at 3 units.
 2. Processes are identified by integers starting from 1.
 3. The simulation continues until all processes are completed.
-### Large Number Primality Checker:
+### Task 2 Large Number Primality Checker:
 1. The system assumes 64-bit architecture for optimal performance.
 2. The primality test is probabilistic (Miller-Rabin).
 3. The random number generator is assumed to provide sufficient randomness.
@@ -66,5 +66,5 @@ Appropriate algorithms for operations like division by two and subtraction.
 1. ![T2.Snippet01](https://github.com/user-attachments/assets/e2f9b830-8db1-4795-a8a6-b04088a90f96)
 2. ![T2.Snippet02](https://github.com/user-attachments/assets/61eb1a66-0b4a-4cf2-9d1e-57fd1f2c61b4)
 ## Github Repository Link
-A publicly accessible github link for this repository is given below:
+A publicly accessible github link for this repository is given as follows:
 [Github Repository Link](https://github.com/Tamkeen-Sara/BS-03-DSA-Assignment-01.git)
